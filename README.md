@@ -26,5 +26,5 @@ Connect all the electronics components according to the code(or you can modify a
 Then upload arduino_detect.ino code in the arduino.
 ## Final step
 Run gesture_detect.py and make sure that you connected arduino to laptop as here laptop's camera is used to detect live images.
-## You can also check out the demonstration of the project here :-
+### You can also check out the demonstration of the project here :-
 [Click Here](https://www.youtube.com/watch?v=v-XZw58QjSE&ab_channel=UTCARSHAGRAWAL)
