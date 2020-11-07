@@ -1,4 +1,4 @@
-# Image-Recognition-Based-Passcode-Lock-Contactless-
+# Image-Recognition-Based-Passcode-Lock-(Contactless)-
 A Deep Learning based project which is used to reduce contact with the surfaces.<br>
 ## Working Methodology
 •	Image Recognition: - The first step is to detect the hand gesture and classify it whether it is 0,1,2,3,4 or 5.<br>
