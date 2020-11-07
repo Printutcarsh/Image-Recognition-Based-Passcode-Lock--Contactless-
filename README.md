@@ -12,3 +12,4 @@ A Deep Learning based project which is used to reduce contact with the surfaces.
 •	Servo motor<br>
 •	16x2 LCD Screen<br>
 •	I2C Module<br>
+## How to do?
