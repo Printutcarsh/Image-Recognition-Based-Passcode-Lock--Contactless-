@@ -14,12 +14,12 @@ A Deep Learning based project which is used to reduce contact with the surfaces.
 •	I2C Module<br>
 # How to do?
 ## Installation
-• Make sure that you have Python3 and Arduino IDE installed in your system.
+• Make sure that you have Python3 and Arduino IDE installed in your system.<br>
 • Now we need to install the essentials using the command :
 ```
-pip install tensorflow<br>
-pip install opencv-contrib-python<br>
-pip install pyserial<br>
+pip install tensorflow
+pip install opencv-contrib-python
+pip install pyserial
 ```
 ## Copying the file
 Copy all the files in the same folder.
