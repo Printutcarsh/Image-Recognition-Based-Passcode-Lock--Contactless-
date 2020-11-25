@@ -27,7 +27,7 @@ Copy all the files in the same folder.
 Using gesture_train.py code and image data, you can train the model. Also you can add more images to the data and can then train the model.<br>
 Also, the trained model and its weights are uploaded so one can skip this process also.
 ## Connections
-Connect all the electronics components according to the code(or you can modify also).
+Connect all the electronics components according to the code(or you can modify also).<br>
 For connections you can also refer circuit diagram in the Images folder.
 ## Upload
 Then upload arduino_detect.ino code in the arduino.
